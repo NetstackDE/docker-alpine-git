@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.18.3
 LABEL maintainer="Andreas Pfeiffer - Netstack <pfeiffer@netstack.de>"
 
 #Install Bash & git
